@@ -1,3 +1,12 @@
 body {
     color: red;
 }
+
+.navbar {
+    padding: 1rem;
+}
+
+.btn-primary:hover {
+    background-color: blue;
+    color: white;
+}
